@@ -34,5 +34,5 @@ Este é um projeto simples e pode ser desenvolvido em qualquer lugar, mas ultima
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/4248081?s=460&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
+| [<img src="https://pickaface.net/gallery/avatar/unr_mackguyver_200109_2208_2dkkv88.png" width=115><br><sub>@mackguyver</sub>](https://github.com/mackguyver) |
 | :---: |
